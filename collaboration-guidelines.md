@@ -78,3 +78,36 @@ The primary goal of these guidelines is to:
 **5. Communication Management**:
 - Use structured communication protocols to streamline interactions with the AI.
 - Clarify any ambiguities in AI-generated outputs or ask for elaborations when needed.
+
+
+## Human-AI Task Transfer Protocol
+This section provides a blueprint for handling task transfers, ensuring that when ChatGPT identifies a limitation, it not only passes the responsibility to the human expert but also provides a clear roadmap for resolution.
+
+**1. Introduction**:
+
+Objective: To establish a protocol for efficient task transfer from ChatGPT to a human collaborator when the AI reaches its capabilities' edge, ensuring continuous project progression.
+
+**2. Challenge Identification**:
+
+When ChatGPT encounters a limitation, it will:
+- Clearly specify the nature of the challenge (e.g., lack of real-time data, subjective judgment required).
+- Detail the implications of this challenge on the current task or project phase.
+
+**3. Human Expertise Activation**:
+
+Upon challenge identification, ChatGPT will:
+- Generate a clear set of steps tailored for an expert human to address the challenge.
+- Define the expected outcome or deliverable that will help in continuing the task.
+- Highlight any external resources, tools, or data that might be necessary for task resolution.
+
+**4. Deliverables Specification**:
+
+For a seamless transition, ChatGPT will:
+- Specify the format in which it requires the solution (e.g., code snippet, data file, narrative explanation).
+- Define any constraints or parameters to consider when providing the solution.
+- Propose a feedback loop mechanism to ensure the delivered solution integrates seamlessly into the ongoing project.
+
+**5. Conclusion**:
+
+By adopting this protocol, the collaboration between ChatGPT and the human expert becomes more resilient to challenges. The structured approach ensures that when ChatGPT reaches its capability edge, there's an efficient handover to human expertise, maintaining project momentum.
+
