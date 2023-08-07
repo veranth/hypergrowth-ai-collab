@@ -7,7 +7,7 @@ Draft 0.1
 - [Purpose](#purpose)
 - [AI Role (ChatGPT)](#ai-role-chatgpt)
 - [Human Role](#human-role)
-- [AI-Human Task Transfer Protocol](#ai-human-task-transfer-protocol)
+- [AI-to-Human Task Transfer Protocol](#ai-to-human-task-transfer-protocol)
 
 
 ## Introduction
@@ -89,7 +89,7 @@ The primary goal of these guidelines is to:
 - Clarify any ambiguities in AI-generated outputs or ask for elaborations when needed.
 
 
-## Human-AI Task Transfer Protocol
+## AI-to-Human Task Transfer Protocol
 This section provides a blueprint for handling task transfers, ensuring that when ChatGPT identifies a limitation, it not only passes the responsibility to the human expert but also provides a clear roadmap for resolution.
 
 **1. Introduction**:
