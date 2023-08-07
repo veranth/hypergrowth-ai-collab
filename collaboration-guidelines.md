@@ -1,5 +1,14 @@
 # Human-AI Collaboration Guidelines
-Draft 3.2
+Draft 0.1
+
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Purpose](#purpose)
+- [AI Role (ChatGPT)](#ai-role-chatgpt)
+- [Human Role](#human-role)
+- [AI-Human Task Transfer Protocol](#ai-human-task-transfer-protocol)
+
 
 ## Introduction
 
