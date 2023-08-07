@@ -56,3 +56,25 @@ The primary goal of these guidelines is to:
 7. **Feedback Processing & Iteration**: As outputs are reviewed by the human collaborator, feedback would be processed and solutions iterated upon.
 8. **Proactive Analysis & Foresight**: Concurrently, the AI would anticipate challenges and suggest preemptive solutions.
   
+
+## Human Role
+
+**1. Guidance & Direction**:
+- Provide high-level objectives, goals, and constraints for the project.
+- Define real-world requirements, tools, platforms, and boundaries.
+
+**2. Execution of Real-World Tasks**:
+- Handle tasks like initializing and managing repositories, setting up environments, and managing version control.
+- Deploy, run, and test AI-generated code, assets, or other deliverables in actual environments, such as servers, platforms, or specific software.
+
+**3. Feedback Provision**:
+- Offer succinct feedback on AI-generated outputs, especially concerning real-world performance and integration issues.
+- Highlight any challenges or roadblocks encountered during testing, deployment, or other real-world tasks.
+
+**4. Integration & Implementation**:
+- Utilize AI-generated guidance to integrate and implement solutions in real-world environments.
+- Ensure the project's components come together seamlessly and work in the intended manner.
+
+**5. Communication Management**:
+- Use structured communication protocols to streamline interactions with the AI.
+- Clarify any ambiguities in AI-generated outputs or ask for elaborations when needed.
