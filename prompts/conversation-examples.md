@@ -10,8 +10,8 @@ To provide researchers, developers, and enthusiasts with a starting point for en
 - [Example 1: Sustainable Urban Housing](#example-1-sustainable-urban-housing)
 - [Example 2: Human-AI Collaboration on Software Development](#example-2-human-ai-collaboration-on-software-development)
 - [Example 3: Expert-Level LLM Research](#example-3-expert-level-llm-research)
-- [Example 4: ...](#example-4-...)
-- [Example 5: ...](#example-4-...)
+- [Example 4: Collaborative Biomedical Research on Genetic Therapies](#example-4-collaborative-biomedical-research-on-genetic-therapies)
+- [Example 5: Curating and Analyzing Historical Data for a Virtual Museum](#example-5-curating-and-analyzing-historical-data-for-a-virtual-museum)
 - [Example 6: Collaborative Research on Humanoid Robot Development and Cognitive AI Integration](#example-6-collaborative-research-on-humanoid-robot-development-and-cognitive-ai-integration)
 
 
@@ -101,8 +101,7 @@ Our main goals for this collaboration are:
 To initiate our collaboration, let's focus on **Therapy Design**. Propose potential genetic targets for Cystic Fibrosis, outlining the role of the defective gene, current treatments, and how genetic therapy could provide a novel solution.
 
 
-
-## Example 5: Prompt for Curating and Analyzing Historical Data for a Virtual Museum
+## Example 5: Curating and Analyzing Historical Data for a Virtual Museum
 > This prompt sets the stage for a deep collaboration on curating historical data for a virtual museum. It gives ChatGPT a clear direction, ensuring the responses align with the project's objectives and requirements.
 
 ChatGPT, I'm in the preliminary stages of an ambitious project: the development of a virtual museum that aims to present a comprehensive view of world history through interactive exhibits. Given the vastness of history and the multifaceted nature of human civilizations, this project requires rigorous data collection, curation, and insightful analysis.
