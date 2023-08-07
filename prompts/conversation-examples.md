@@ -12,7 +12,7 @@ To provide researchers, developers, and enthusiasts with a starting point for en
 - [Example 3: Expert-Level LLM Research](#example-3-expert-level-llm-research)
 - [Example 4: ...](#example-4-...)  <!-- Future examples can be added here -->
 - [Example 5: ...](#example-4-...)  <!-- Future examples can be added here -->
-- [Example 6: Collaborative Research on Humanoid Robot Development and Cognitive AI Integration](example-6-collaborative-research-on-humanoid)
+- [Example 6: Collaborative Research on Humanoid Robot Development and Cognitive AI Integration](example-6-collaborative-research-on-humanoid-robot-development-and-cognitive-ai-integration)
 
 - 
 
