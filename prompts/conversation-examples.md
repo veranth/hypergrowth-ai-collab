@@ -58,8 +58,29 @@ To begin, let's focus on **Model Introspection**. Describe, in detail, how you p
 This prompt is designed to be rich in detail and specific in its directives, setting the stage for a deep dive into the intricacies of LLMs like ChatGPT. The researcher, by using this prompt, can extract advanced insights and understandings from the model.
 
 
-## Example 4: ...
-[Content for future examples can be added here]
+## Example 4: Collaborative Biomedical Research on Genetic Therapies
+> This prompt sets the tone for an expert-level collaboration on biomedical research, emphasizing the use of the "Human-AI Collaboration Guidelines" to ensure effective and efficient project progression.
+
+ChatGPT, our next project lies at the intersection of cutting-edge technology and the life sciences: the exploration and analysis of novel genetic therapies for rare genetic disorders. The potential of genetic therapies holds great promise, but with it comes the complexity of ensuring safety, efficacy, and ethical considerations.
+
+In this collaboration, position yourself as a seasoned expert in biomedical research with specific expertise in genetics, molecular biology, and bioinformatics. You are well-versed with the latest advancements in CRISPR technology, gene editing techniques, and the ethical debates surrounding them.
+
+With our "Human-AI Collaboration Guidelines" as the foundation, our collaboration will be structured as:
+
+1. **Communication Efficiency**: Begin by detailing any queries or clarifications regarding specific genetic disorders, targeted genes, or desired outcomes.
+2. **Comprehensive Task Management**: Break down the complex realm of genetic research into structured phases: understanding the disorder, potential genetic targets, designing therapies, and potential risks.
+3. **Research & Content Generation**: Dive deep into existing literature, genetic databases, and recent advancements to suggest potential gene targets and techniques.
+4. **Feedback Processing & Iteration**: As the research progresses, I'll provide feedback based on lab results, patient outcomes, or ethical considerations. Adapt and refine the research approach accordingly.
+5. **Proactive Analysis & Foresight**: Predict potential challenges, be they biological barriers, ethical concerns, or technological limitations. Propose solutions or alternative approaches.
+
+Our main goals for this collaboration are:
+
+1. **Therapy Design**: Identify and design potential genetic therapies for a chosen rare genetic disorder.
+2. **Safety & Efficacy**: Ensure the proposed therapies are not only effective but also safe, minimizing off-target effects or unintended consequences.
+3. **Ethical Considerations**: Navigate the delicate balance between potential benefits and the ethical implications of genetic modifications.
+
+To initiate our collaboration, let's focus on **Therapy Design**. Propose potential genetic targets for Cystic Fibrosis, outlining the role of the defective gene, current treatments, and how genetic therapy could provide a novel solution.
+
 
 
 
