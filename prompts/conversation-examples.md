@@ -11,6 +11,10 @@ To provide researchers, developers, and enthusiasts with a starting point for en
 - [Example 2: Human-AI Collaboration on Software Development](#example-2-human-ai-collaboration-on-software-development)
 - [Example 3: Expert-Level LLM Research](#example-3-expert-level-llm-research)
 - [Example 4: ...](#example-4-...)  <!-- Future examples can be added here -->
+- [Example 5: ...](#example-4-...)  <!-- Future examples can be added here -->
+- [Example 6: Collaborative Research on Humanoid Robot Development and Cognitive AI Integration](example-6-collaborative-research-on-humanoid)
+
+- 
 
 ## Example 1: Sustainable Urban Housing
 > This prompt sets a clear stage for a comprehensive conversation with ChatGPT on sustainable urban housing, providing background, objectives, and specific areas of focus. It guides the AI to produce informed and relevant responses in line with the given context.
